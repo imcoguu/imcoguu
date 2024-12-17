@@ -3,7 +3,7 @@
 #### 19 años. Extremadura - España
 *Soy una persona tranquila y cooperativa, que busca seguir aprendiendo algo nuevo cada dia*
 
-> [!aptitudes] Aptitudes:
+> ### Aptitudes:
 > - Desarrollo *back-end*
 > - Desarrollo de aplicaciones móviles
 > - Desarrollo de aplicaciones web (Angular)
@@ -15,7 +15,7 @@
 > 	- *Patrones de diseño*
 > 	- *Programación concurrente*
 
-> [! Lenguajes] Lenguajes:
+> ### Lenguajes:
 > - Java
 > 	- Spring
 > - Python
@@ -26,7 +26,7 @@
 > - XML
 > - Shellscript
 
-> [!soft] Software:
+> ### Software:
 > - Eclipse
 > 	- Eclipse IDE for Java Developers
 > 	- Spring Tool Suite
@@ -57,7 +57,7 @@ Descripción:
 #### 19 years old. Extremadura - Spain
 *I'm a calm and cooperative person who' wants to learn something new everyday*
 
-> [!aptitudes] Skills:
+> ### Skills:
 > -  BackEnd development
 > - Mobile applications development
 > - Web applications development (Angular)
@@ -69,7 +69,7 @@ Descripción:
 > 	- *Design Patterns*
 > 	- *Concurrent programming* 
 
-> [! Lenguajes] Languages:
+> ### Languages:
 > - Java
 > 	- Spring
 > - Python
@@ -80,7 +80,7 @@ Descripción:
 > - XML
 > - Shellscript
 
-> [!soft] Software:
+> ### Software:
 > - Eclipse
 > 	- Eclipse IDE for Java Developers
 > 	- Spring Tool Suite
