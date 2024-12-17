@@ -55,7 +55,7 @@ Descripción:
 
 ## 🇺🇸 About me
 #### 19 years old. Extremadura - Spain
-*I'm a calm and cooperative person who' wants to learn something new everyday*
+*I'm a calm and cooperative person who wants to learn something new everyday*
 
 > ### Skills:
 > -  BackEnd development
