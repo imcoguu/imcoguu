@@ -31,10 +31,12 @@
 
 Tiempo de desarrollo: 
 - Enero 2024 - Abril 2024
+  
 Cargo:
-- Desarrollador backend con PHP  
-  Descripción:  
-	  ArchivoTermikos es un proyecto grupal cuyo fin trata de proveer a las aulas del instituto IES Arroyo Harnina una forma rápida, precisa y sencilla de medir las temperaturas en las 	  mismas. Cuenta con un backend desarrollado en PHP que permite conectarse a una base de datos MySQL desde la que se toman datos relativos a la temperatura, humedad y nivel de 	  gases peligrosos enviados por un sensor colocado en cada aula
+- Desarrollador backend con PHP
+  
+Descripción:  
+ArchivoTermikos es un proyecto grupal cuyo fin trata de proveer a las aulas del instituto IES Arroyo Harnina una forma rápida, precisa y sencilla de medir las temperaturas en las 	  mismas. Cuenta con un backend desarrollado en PHP que permite conectarse a una base de datos MySQL desde la que se toman datos relativos a la temperatura, humedad y nivel de 	  gases peligrosos enviados por un sensor colocado en cada aula
 
 
 # 🇺🇸 About me
@@ -69,9 +71,11 @@ Cargo:
 
 Development time span: 
 - January 2024 - April 2024
+  
 Position:
-- PHP backend developer  
-  Info:  
+- PHP backend developer
+  
+Info:  
 ArchivoTermikos is a group project whose goal is to provide a fast, precise and simple way to measure temperatures to the IES Arroyo Harnina's classrooms. It has a PHP backend which allows the HTML frontend to connect to a MySQL database from where we retrieve various data such as temperature, humidity, level of dangerous gases from a sensor placed in every classroom
 
 # Software:
