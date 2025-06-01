@@ -1,7 +1,7 @@
 
 [![SpyLook Android](https://img.shields.io/badge/SpyLook%20-%20Android%20-%20green?logo=android&logoColor=green&labelColor=black)](https://github.com/cdominguezh06/spylook)
 [![SpyLook Web Deployment](https://img.shields.io/badge/SpyLook%20Web%20-%20Deployment-%20black?logo=angular&logoColor=red&labelColor=purple)](https://cdominguezh06.github.io/spylook-web/)
-[![SpyLook Web Repository](https://img.shields.io/badge/SpyLook%20Web%20-%20Repository%20-%20blue?logo=github&labelColor=black)](https://cdominguezh06.github.io/spylook-web/)
+[![SpyLook Web Repository](https://img.shields.io/badge/SpyLook%20Web%20-%20Repository%20-%20blue?logo=github&labelColor=black)](https://github.com/cdominguezh06/spylook-web/)
 
 
 # 🇪🇸 Sobre mi
