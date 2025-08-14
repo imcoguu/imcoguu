@@ -3,7 +3,7 @@
 [![SpyLook Web Deployment](https://img.shields.io/badge/SpyLook%20Web%20-%20Deployment-%20black?logo=angular&logoColor=red&labelColor=purple)](https://imcoguu.github.io/spylook-web/)
 [![SpyLook Web Repository](https://img.shields.io/badge/SpyLook%20Web%20-%20Repository%20-%20blue?logo=github&labelColor=black)](https://github.com/cdominguezh06/spylook-web/)
 
-### [🇪🇸](#sobre-mi) | [🇺🇸](#about-me)
+### [🇪🇸](#-sobre-mi) | [🇺🇸](#-about-me)
 
 # 🇪🇸 Sobre mi
 
