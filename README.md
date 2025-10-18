@@ -9,7 +9,7 @@
 ### 19 años. Extremadura - España
 *Soy una persona tranquila y cooperativa, que busca seguir aprendiendo algo nuevo cada dia*   
 
-![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=cdominguezh06&show_icons=true&theme=dark)
+![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=imcoguu&show_icons=true&theme=dark)
 	
 ## Aptitudes:
 - Desarrollo *back-end*
