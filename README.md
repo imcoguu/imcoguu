@@ -6,7 +6,7 @@
 
 # 🇪🇸 Sobre mi
 
-### 19 años. Extremadura - España
+### 20 años. Extremadura - España
 *Soy una persona tranquila y cooperativa, que busca seguir aprendiendo algo nuevo cada dia*   
 
 ![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=imcoguu&show_icons=true&theme=dark)
@@ -23,19 +23,24 @@
 	- *Patrones de diseño*
 	- *Programación concurrente*
 
-## Lenguajes:
+## Lenguajes y tecnologías:
 - Java
 	- SpringBoot
+- Kotlin
+	- Compose Multiplatform
+	- Jetpack Compose
+	- Kotlin Coroutines
 - Python
 - HTML
 - CSS
 - Javascript / Typescript
 	- Angular
 - XML
-
+- PHP
+  - FacturaScripts
 
 # 🇺🇸 About me
-### 19 years old. Extremadura - Spain
+### 20 years old. Extremadura - Spain
 *I'm a calm and cooperative person who wants to learn something new everyday*
 
 ## Skills:
@@ -50,24 +55,32 @@
 	- *Design Patterns*
 	- *Concurrent programming* 
 
-## Languages:
+## Languages & Technologies:
 - Java
 	- SpringBoot
+- Kotlin
+	- Compose Multiplatform
+	- Jetpack Compose
+	- Kotlin Coroutines
 - Python
 - HTML
 - CSS
 - Javascript / Typescript
 	- Angular
 - XML
+- PHP
+  - FacturaScripts
 
 # Software:
 - Eclipse
 	- Eclipse IDE for Java Developers
 	- Spring Tool Suite
 - Visual Studio Code
+- Docker Desktop
 - JetBrains IDE
 	- IntelliJ IDEA (Java)
 	- WebStorm (JavaScript/TypeScript | Angular)
+   	- Android Studio (Kotlin & Mobile || Multiplatform Development)
 	- PyCharm (Python)
 	- Android Studio (Java & XML)
 	- Rider (C#, GameDev)
