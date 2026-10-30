@@ -6,7 +6,7 @@
 
 # 🇪🇸 Sobre mi
 
-### 20 años. Extremadura - España
+### 21 años. Extremadura - España
 *Soy una persona tranquila y cooperativa, que busca seguir aprendiendo algo nuevo cada dia*   
 
 ![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=imcoguu&show_icons=true&theme=dark)
@@ -40,7 +40,7 @@
   - FacturaScripts
 
 # 🇺🇸 About me
-### 20 years old. Extremadura - Spain
+### 21 years old. Extremadura - Spain
 *I'm a calm and cooperative person who wants to learn something new everyday*
 
 ## Skills:
